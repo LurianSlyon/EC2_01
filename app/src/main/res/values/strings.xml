@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EC2_01</string>
+    <string name="title_photo">Photo</string>
+    <string name="title_mapa">Mapa</string>
+    <string name="title_informacion">Informacion</string>
+    <string name="API_KEY">AIzaSyBW9K3JXfa6xydnUOdt-V-L-o5PtqFIloM</string>
+</resources>
